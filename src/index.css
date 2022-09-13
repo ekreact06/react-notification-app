@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.textStyle {
+	font-weight: bold;
+};
+.textReadStyle {
+	font-weight: bold;
+  color: black ;
+	opacity: .3;
+};
